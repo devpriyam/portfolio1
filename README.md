@@ -1,2 +1,2 @@
 # portfolio1
-this is the first portfolio that i have ever made using html and css
+this is the first portfolio that i have made using html and css
